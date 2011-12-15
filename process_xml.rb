@@ -13,9 +13,8 @@ def parse_xml(files)
     xml.elements.each do |ele|
       puts ele
     end
-
-
-
+root.elements["synset"].elements["terms"].elements["term"]
+root.elements["synset"].elements["keys"].elements["sk"]
 
   end
 
