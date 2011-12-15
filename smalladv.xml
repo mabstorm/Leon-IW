@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wordnet SYSTEM "glosstag.dtd">
+<wordnet ver="3.0">
+ <synset id="r00001740" ofs="00001740" pos="r">
+  <terms>
+   <term>a cappella</term>
+  </terms>
+  <keys>
+   <sk>a_cappella%4:02:00::</sk>
+  </keys>
+  <gloss desc="orig">
+   <orig>without musical accompaniment; "they performed a cappella"</orig>
+  </gloss>
+  <gloss desc="text">
+   <text>without musical accompaniment ; â they performed a cappella â</text>
+  </gloss>
+  <gloss desc="wsd">
+   <def id="r00001740_d">
+    <wf id="r00001740_wf1" lemma="without" pos="IN" tag="ignore">without</wf>
+    <cf coll="a" id="r00001740_wf2" lemma="musical%1|musical%3" pos="JJ" tag="un">
+     <glob coll="a" glob="auto" id="r00001740_coll.a" lemma="musical_accompaniment%1" tag="auto">
+      <id coll="a" id="r00001740_id.1" lemma="musical accompaniment" sk="musical_accompaniment%1:10:00::"/>
+    </glob>musical</cf>
+    <cf coll="a" id="r00001740_wf3" lemma="accompaniment%1" pos="NN" sep="" tag="un">accompaniment</cf>
+    <wf id="r00001740_wf4" pos=":" tag="ignore" type="punc">;</wf>
+   </def>
+   <ex id="r00001740_ex1">
+    <qf rend="dq">
+     <wf id="r00001740_wf5" lemma="they" tag="ignore">they</wf>
+     <wf id="r00001740_wf6" lemma="perform%2" tag="un">performed</wf>
+     <cf coll="b" id="r00001740_wf7" lemma="a" tag="ignore">
+      <glob coll="b" glob="auto" id="r00001740_coll.b" lemma="a_cappella%3|a_cappella%4" tag="auto">
+       <id coll="b" id="r00001740_id.2" lemma="a cappella" sk="a_cappella%4:02:00::"/>
+     </glob>a</cf>
+     <cf coll="b" id="r00001740_wf8" lemma="cappella" sep="" tag="un">cappella</cf>
+    </qf>
+    <wf id="r00001740_wf9" tag="ignore" type="punc">;</wf>
+   </ex>
+  </gloss>
+ </synset>
+<synset id="r00001837" ofs="00001837" pos="r">
+  <terms>
+   <term>AD</term>
+   <term>A.D.</term>
+   <term>anno Domini</term>
+  </terms>
+  <keys>
+   <sk>ad%4:02:00::</sk>
+   <sk>a.d.%4:02:00::</sk>
+   <sk>anno_domini%4:02:00::</sk>
+  </keys>
+  <gloss desc="orig">
+   <orig>in the Christian era; used before dates after the supposed year Christ was born; "in AD 200"</orig>
+  </gloss>
+  <gloss desc="text">
+   <text>in the Christian era ; used before dates after the supposed year Christ was born ; â in AD 200 â</text>
+  </gloss>
+  <gloss desc="wsd">
+   <def id="r00001837_d">
+    <wf id="r00001837_wf1" lemma="in" pos="IN" tag="ignore">in</wf>
+    <wf id="r00001837_wf2" lemma="the" pos="DT" tag="ignore">the</wf>
+    <cf coll="a" id="r00001837_wf3" lemma="Christian%1|Christian%3" pos="JJ" tag="un">
+     <glob coll="a" glob="auto" id="r00001837_coll.a" lemma="Christian_era%1" tag="auto">
+      <id coll="a" id="r00001837_id.3" lemma="Christian era" sk="christian_era%1:28:00::"/>
+    </glob>Christian</cf>
+    <cf coll="a" id="r00001837_wf4" lemma="era%1" pos="NN" sep="" tag="un">era</cf>
+    <wf id="r00001837_wf5" pos=":" tag="ignore" type="punc">;</wf>
+    <wf id="r00001837_wf6" lemma="use%2|used%3" pos="VBN" tag="un">used</wf>
+    <wf id="r00001837_wf7" lemma="before%4" pos="IN" tag="un">before</wf>
+    <wf id="r00001837_wf8" lemma="date%1|date%2" pos="NNS" tag="man">
+     <id id="r00001837_id.5" lemma="date" sk="date%1:28:04::"/>dates</wf>
+    <wf id="r00001837_wf9" lemma="after%3|after%4" pos="IN" tag="un">after</wf>
+    <wf id="r00001837_wf10" lemma="the" pos="DT" tag="ignore">the</wf>
+    <wf id="r00001837_wf11" lemma="suppose%2|supposed%3" pos="JJ" tag="un">supposed</wf>
+    <wf id="r00001837_wf12" lemma="year%1" pos="NN" tag="un">year</wf>
+    <wf id="r00001837_wf13" lemma="Christ%1" pos="NNP" tag="auto">
+     <id id="r00001837_id.2" lemma="Christ" sk="christ%1:18:00::"/>Christ</wf>
+    <cf coll="b" id="r00001837_wf14" lemma="be%2" pos="VBD" tag="un">
+     <glob coll="b" glob="man" id="r00001837_coll.b" lemma="be_born%2" tag="man">
+      <id coll="b" id="r00001837_id.4" lemma="be born" sk="be_born%2:30:00::"/>
+    </glob>was</cf>
+    <cf coll="b" id="r00001837_wf15" lemma="bear%2|born%3" pos="VBN" sep="" tag="un">born</cf>
+    <wf id="r00001837_wf16" pos=":" tag="ignore" type="punc">;</wf>
+   </def>
+   <ex id="r00001837_ex1">
+    <qf rend="dq">
+     <wf id="r00001837_wf17" lemma="in" tag="ignore">in</wf>
+     <mwf type="date">
+      <wf id="r00001837_wf18" lemma="AD" tag="auto" type="abbr">
+       <id id="r00001837_id.1" lemma="AD" sk="ad%4:02:00::"/>AD</wf>
+      <wf id="r00001837_wf19" lemma="200" sep="" tag="ignore" type="num">200</wf>
+     </mwf>
+    </qf>
+    <wf id="r00001837_wf20" tag="ignore" type="punc">;</wf>
+   </ex>
+  </gloss>
+ </synset>
+</wordnet>
